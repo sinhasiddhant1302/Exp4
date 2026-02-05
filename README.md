@@ -1,10 +1,10 @@
 # 🐍 Study of Sets in Python
 
 > **Experiment No:** 4  
-> **Topic:** Understanding Set Data Structures and Operations
+> **Topic:** Understanding Sets 
 
 ## 🎯 Aim
-To study the behavior, properties, and practical applications of **Sets** in Python, including creation, modification, and mathematical set operations.
+To study set operations.
 
 ---
 
